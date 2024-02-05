@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+ul, ol{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    line-height: 0.8;
+}
+a{
+    text-decoration: none;
+}
+
+/*============== file_download part start here ============= */
+.file_main .file_header h2{
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+/*============== file_download part end ==================== */
